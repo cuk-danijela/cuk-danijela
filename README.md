@@ -1,3 +1,3 @@
 # cuk-danijela-resume
 *My Curriculum Vitae* 
-![Screenshot](https://octodex.github.com/images/yaktocat.png)
+![Screenshot](https://raw.githubusercontent.com/cuk-danijela/cuk-danijela-resume/master/screenshot.png)
