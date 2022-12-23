@@ -1,0 +1,133 @@
+body {
+  font-family: "EB Garamond", serif;
+}
+
+.left_content {
+  border-right: 1px solid darkkhaki;
+  padding-right: 40px;
+  padding-top: 40px;
+}
+
+.left_content li {
+  list-style: none;
+}
+
+#profile_pic {
+  border-radius: 3%;
+  border: 3px double darkkhaki;
+  padding: 10px;
+  width: 260px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.title {
+  padding-bottom: 50px;
+}
+
+.social-icons ul,
+.contact_me ul,
+.languages ul {
+  padding: 0;
+}
+
+.social-icons ul li {
+  display: inline-block;
+  width: 15%;
+}
+
+.social-icons ul li a {
+  border: 1px solid #444;
+  color: #444;
+  display: block;
+  font-size: 16px;
+  height: 40px;
+  line-height: 38px;
+  margin-right: 5px;
+  text-align: center;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.social-icons ul li a:hover {
+  color: grey;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  color: #856404;
+  text-decoration: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+/* ------------------------------ right-content ------------------------------- */
+
+.right_content {
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+.right_content h3 {
+  border-bottom: 4px double #bdb76b;
+  padding: 5px 10px;
+  font-weight: 400;
+}
+
+.right_content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.used_tech {
+  font-style: italic;
+}
+
+/* ----------------- Skill bar content style ----------------*/
+
+.skill-bar-container {
+  position: relative;
+  width: 100%;
+  border-radius: 4px;
+  background-color: whitesmoke;
+  margin-bottom: 0.5em;
+}
+.skill-bar-container .skill-bar {
+  display: block;
+  border-radius: 4px;
+  height: 25px;
+}
+.skill-bar-container .skill-bar.level1 {
+  width: 33%;
+  background-color: #bdb76b;
+}
+.skill-bar-container .skill-bar.level2 {
+  width: 58%;
+  background-color: #bdb76b;
+}
+.skill-bar-container .skill-bar.level3 {
+  width: 68%;
+  background-color: #bdb76b;
+}
+.skill-bar-container .skill-bar.level4 {
+  width: 75%;
+  background-color: #bdb76b;
+}
+.skill-bar-container .skill-bar.level5 {
+  width: 100%;
+  background-color: #bdb76b;
+}
+.skill-bar-container .skill-name {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  color: #333;
+}
+.skill-bar-container .skill-percent {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  color: #999;
+}
