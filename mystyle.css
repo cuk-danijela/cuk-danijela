@@ -4,7 +4,6 @@ body {
 
 .left_content {
   border-right: 1px solid darkkhaki;
-  padding-right: 40px;
   padding-top: 40px;
 }
 
@@ -25,7 +24,18 @@ body {
   padding-bottom: 50px;
 }
 
+.about_me ul li::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 600;
+  font-size: 12px;
+  content: "\f00c";
+  display: inline-block;
+  padding-right: 5px;
+  vertical-align: middle;
+}
+
 .social-icons ul,
+.about_me ul,
 .contact_me ul,
 .languages ul {
   padding: 0;
@@ -94,37 +104,44 @@ a:active {
   background-color: whitesmoke;
   margin-bottom: 0.5em;
 }
+
 .skill-bar-container .skill-bar {
   display: block;
   border-radius: 4px;
   height: 25px;
 }
+
 .skill-bar-container .skill-bar.level1 {
-  width: 33%;
+  width: 38%;
   background-color: #bdb76b;
 }
+
 .skill-bar-container .skill-bar.level2 {
   width: 58%;
   background-color: #bdb76b;
 }
+
 .skill-bar-container .skill-bar.level3 {
   width: 68%;
   background-color: #bdb76b;
 }
+
 .skill-bar-container .skill-bar.level4 {
   width: 75%;
   background-color: #bdb76b;
 }
+
 .skill-bar-container .skill-bar.level5 {
   width: 100%;
   background-color: #bdb76b;
 }
+
 .skill-bar-container .skill-name {
   position: absolute;
-  top: 5px;
   left: 10px;
-  color: #333;
+  color: #000;
 }
+
 .skill-bar-container .skill-percent {
   position: absolute;
   top: 5px;
