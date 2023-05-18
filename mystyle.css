@@ -5,6 +5,7 @@ body {
 .left_content {
   border-right: 1px solid darkkhaki;
   padding-top: 40px;
+  padding-left: 0;
 }
 
 .left_content li {
