@@ -113,22 +113,22 @@ a:active {
 }
 
 .skill-bar-container .skill-bar.level1 {
-  width: 20%;
+  width: 38%;
   background-color: #bdb76b;
 }
 
 .skill-bar-container .skill-bar.level2 {
-  width: 40%;
+  width: 58%;
   background-color: #bdb76b;
 }
 
 .skill-bar-container .skill-bar.level3 {
-  width: 60%;
+  width: 68%;
   background-color: #bdb76b;
 }
 
 .skill-bar-container .skill-bar.level4 {
-  width: 80%;
+  width: 75%;
   background-color: #bdb76b;
 }
 
