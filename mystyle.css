@@ -38,7 +38,9 @@ body {
 .social-icons ul,
 .about_me ul,
 .contact_me ul,
-.languages ul {
+.languages ul,
+.education ul,
+.hobbies ul {
   padding: 0;
 }
 
