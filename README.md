@@ -26,7 +26,7 @@ git clone https://github.com/cuk-danijela/cuk-danijela-resume.git
 
 ## Usage
 
-Feel free to explore the project files and view my [CV](https://github.com/cuk-danijela/cuk-danijela-resume/blob/master/Danijela_Cuk_Resume.pdf).
+Feel free to explore the project files and view my [CV](https://github.com/cuk-danijela/cuk-danijela-resume/blob/master/Cuk Danijela Resume.pdf).
 
 ## Contact
 
