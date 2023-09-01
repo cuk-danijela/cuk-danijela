@@ -24,10 +24,6 @@ git clone https://github.com/cuk-danijela/cuk-danijela-resume.git
 
 2. Open the project in your preferred code editor.
 
-## Usage
-
-Feel free to explore the project files and view my [CV](https://github.com/cuk-danijela/cuk-danijela-resume/blob/master/Cuk Danijela Resume.pdf).
-
 ## Contact
 
 For any inquiries or collaboration opportunities, please contact me at [danijela.b.cuk@gmail.com](mailto:danijela.b.cuk@gmail.com).
