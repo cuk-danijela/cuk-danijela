@@ -4,13 +4,13 @@
 
 👨‍💻 All of my projects are available at [my portfolio page](https://cuk-danijela.github.io/).
 
-📝 You can also visit my [LinkedIn profile](https://www.linkedin.com/in/danijela-cuk-1990/) or [CodePen profile](https://codepen.io/cuk-danijela) for more information.
+📝 Visit my [LinkedIn profile](https://www.linkedin.com/in/danijela-cuk-1990/) or [CodePen profile](https://codepen.io/cuk-danijela) for more information.
 
-💬 This is my personal [resume](https://github.com/cuk-danijela/cuk-danijela/blob/master/Cuk-Danijela-CV.pdf) showcasing my skills, experience and projects.
+💬 My [resume](https://github.com/cuk-danijela/cuk-danijela/blob/master/Cuk-Danijela-CV.pdf) showcasing my skills, experience and projects.
 
-📫 For any inquiries or collaboration opportunities, please contact me at [GMAIL](danijela.b.cuk@gmail.com).
+📫 For any inquiries or collaboration opportunities, contact me at [GMAIL](danijela.b.cuk@gmail.com).
 
-📄 To access my resume, clone the repository [cuk-danijela](https://github.com/cuk-danijela/cuk-danijela) and explore the files.
+📄 Clone the repository [cuk-danijela](https://github.com/cuk-danijela/cuk-danijela) and explore the files.
 
 
 
