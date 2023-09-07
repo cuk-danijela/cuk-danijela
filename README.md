@@ -10,7 +10,7 @@
 
 💬 My [resume](https://github.com/cuk-danijela/cuk-danijela/blob/master/Cuk-Danijela-CV.pdf) showcasing my skills, experience and projects.
 
-📫 For any job opportunities, contact me at [GMAIL](danijela.b.cuk@gmail.com).
+📫 For any job opportunities, contact me at danijela.b.cuk@gmail.com.
 
 📄 Clone the repository [cuk-danijela](https://github.com/cuk-danijela/cuk-danijela) and explore the files.
 
