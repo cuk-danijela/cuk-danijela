@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋 I'm Danijela Cuk </h1>
-
+<h4 align="center">"I am a self-taught programmer who is passionate about learning, with a particular interest in web development." </h4>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
+<hr/> 
 👨‍💻 All of my projects are available at [my portfolio page](https://cuk-danijela.github.io/).
 
 📝 Visit my [LinkedIn profile](https://www.linkedin.com/in/danijela-cuk-1990/) or [CodePen profile](https://codepen.io/cuk-danijela) for more information.
 
 💬 My [resume](https://github.com/cuk-danijela/cuk-danijela/blob/master/Cuk-Danijela-CV.pdf) showcasing my skills, experience and projects.
 
-📫 For any inquiries or collaboration opportunities, contact me at [GMAIL](danijela.b.cuk@gmail.com).
+📫 For any job opportunities, contact me at [GMAIL](danijela.b.cuk@gmail.com).
 
 📄 Clone the repository [cuk-danijela](https://github.com/cuk-danijela/cuk-danijela) and explore the files.
 
