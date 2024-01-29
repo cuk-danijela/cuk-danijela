@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Danijela Cuk </h1>
-<h4 align="center">Self-taught programmer who is passionate about learning, with a particular interest in web development </h4>
+<h4 align="center">Self-taught developer who is passionate about learning, with a particular interest in web development. </h4>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <hr/> 
 
